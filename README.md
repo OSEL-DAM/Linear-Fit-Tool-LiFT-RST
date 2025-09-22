@@ -2,9 +2,9 @@
 This regulatory science tool (RST) is a MATLAB script that automates the determination of stiffness from the slope of a linear region from mechanical test data using an algorithm that is in compliance with ASTM E3076-18. Specifically, it analyzes test data (i.e., force-displacement curve or torque-angle curve) and then generates output parameters including bending and torsional stiffness typically requested in the preclinical mechanical performance test standards, ASTM F3574 and ASTM F2267.
 
 # Regulatory Science Tool (RST) Reference
-RST Reference Number: RST24OP06.01
-Date of Publication: 09/19/2025
-Recommended Citation: U.S. Food and Drug Administration. (2025). The Linear Fit Tool (LiFT) for Orthopedic Device Testing (RST24OP06.01). https://cdrh-rst.fda.gov/linear-fit-tool-lift-orthopedic-device-testing
+* RST Reference Number: RST24OP06.01
+* Date of Publication: 09/19/2025
+* Recommended Citation: U.S. Food and Drug Administration. (2025). The Linear Fit Tool (LiFT) for Orthopedic Device Testing (RST24OP06.01). https://cdrh-rst.fda.gov/linear-fit-tool-lift-orthopedic-device-testing
 
 # Disclaimer about the Catalog of Regulatory Science Tools
 The enclosed tool is part of the Catalog of Regulatory Science Tools, which provides a peer-reviewed resource for stakeholders to use where standards and qualified Medical Device Development Tools (MDDTs) do not yet exist. These tools do not replace FDA-recognized standards or MDDTs. This catalog collates a variety of regulatory science tools that the FDA's Center for Devices and Radiological Health's (CDRH) Office of Science and Engineering Labs (OSEL) developed. These tools use the most innovative science to support medical device development and patient access to safe and effective medical devices. If you are considering using a tool from this catalog in your marketing submissions, note that these tools have not been qualified as Medical Device Development Tools and the FDA has not evaluated the suitability of these tools within any specific context of use. You may request feedback or meetings for medical device submissions as part of the Q-Submission Program.
