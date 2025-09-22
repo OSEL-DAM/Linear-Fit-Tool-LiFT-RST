@@ -1,0 +1,29 @@
+Relative x-resolution,28.0
+% at x-resolution,52.972972972972975
+% in zeroth bin x,47.02702702702703
+Relative y-resolution,0.3333333333333333
+% at y-resolution,10.81081081081081
+% in zeroth bin y,1.6216216216216217
+Relative noise x,1.8028097697181662
+Relative noise y,0.31742221094832174
+1st Quartile relative residual slope,0.6243646413152271
+1st Quartile number of points,39
+4th Quartile relative residual slope,-0.403850270720907
+4th Quartile number of points,41
+Relative fit range,0.5129256966171993
+Relative x-resolution Pass,False
+Relative y-resolution Pass,True
+Relative noise x Pass,False
+Relative noise y Pass,True
+1st Quartile Slope Pass,True
+1st Quartile Number of Points Pass,True
+4th Quartile Slope Pass,True
+4th Quartile Number of Points Pass,True
+Relative fit range Pass,True
+Final slope,15701.978075300527
+True intercept,13.752112899916174
+Lower y bound,43.21289063
+Upper y bound,200.9277344
+Regression Lower Index,32
+Regression Upper Index,184
+Kernel abort,False: No problems encountered
